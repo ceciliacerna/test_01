@@ -23,4 +23,5 @@ Things you may want to cover:
 
 * ...
 
-Learning ruby on rails 
+Learning ruby on rails .
+First test repo on this course.
